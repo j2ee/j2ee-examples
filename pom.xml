@@ -11,6 +11,10 @@
     <name>j2ee-examples</name>
     <url>http://j2ee.org</url>
 
+    <modules>
+        <module>examples-model</module>
+    </modules>
+
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <junit.version>4.12</junit.version>
