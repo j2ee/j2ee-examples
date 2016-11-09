@@ -10,9 +10,9 @@
     </parent>
 
     <groupId>org.j2ee.examples</groupId>
-    <artifactId>examples-model</artifactId>
+    <artifactId>examples-data</artifactId>
     <packaging>jar</packaging>
 
-    <name>examples-model</name>
+    <name>examples-data</name>
 
 </project>
