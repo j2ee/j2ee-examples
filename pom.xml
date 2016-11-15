@@ -16,6 +16,7 @@
         <module>examples-data</module>
         <module>examples-servlet</module>
         <module>examples-jsp</module>
+        <module>examples-hibernate</module>
     </modules>
 
     <properties>
